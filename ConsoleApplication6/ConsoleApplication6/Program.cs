@@ -28,8 +28,6 @@ namespace ConsoleApplication6
             }
             else
             {
-                double y = 0;
-
                 Console.WriteLine("Answer is x + i * y");
                 Console.WriteLine("Answer is x - i * y");
             }
