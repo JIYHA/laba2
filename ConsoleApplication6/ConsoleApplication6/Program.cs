@@ -10,6 +10,7 @@ namespace ConsoleApplication6
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Write your a, b, c");
             double a = Convert.ToInt32(Console.ReadLine());
             double b = Convert.ToInt32(Console.ReadLine());
             double c = Convert.ToInt32(Console.ReadLine());
